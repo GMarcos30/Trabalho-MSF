@@ -4,9 +4,8 @@
     box-sizing: border-box;
 }
 
-.text{
-    background-color: green;
-}
+
+
 
 .title{
 font-family: Arial, Helvetica, sans-serif;
@@ -20,5 +19,25 @@ color: dimgray;
 
 .tabelaE{
     border: 3px solid dimgray;
+    font-size: 18px;
+}
+.modelos{
+    background-color: darkgray;
+    font-size: 22px;
+
+}
+.pro{
+    background-color: rgb(219, 219, 219);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.textos{
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.list{
     font-size: 18px;
 }
